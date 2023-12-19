@@ -1,22 +1,22 @@
 [submodule "vim-ctrlp"]
-    path = "vim/pack/github/start/ctrlp.vim"
-    url = "https://github.com/ctrlpvim/ctrlp.vim"
+	path = vim/pack/github/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
 [submodule "vim-tmuxline"]
-    path = "vim/pack/github/start/tmuxline.vim"
-    url = "https://github.com/edkolev/tmuxline.vim"
+	path = vim/pack/github/start/tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim
 [submodule "vim-airline"]
-    path = "vim/pack/github/start/vim-airline"
-    url = "https://github.com/vim-airline/vim-airline"
+	path = vim/pack/github/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
 [submodule "vim-airline-themes"]
-    path = "vim/pack/github/start/vim-airline-themes"
-    url = "https://github.com/vim-airline/vim-airline-themes"
+	path = vim/pack/github/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
 [submodule "vim-colorschemes"]
-    path = "vim/pack/github/start/vim-colorschemes"
-    url = "https://github.com/flazz/vim-colorschemes"
+	path = vim/pack/github/start/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes
 [submodule "vim-fugitive"]
-    path = "vim/pack/github/start/vim-fugitive"
-    url = "https://github.com/tpope/vim-fugitive.git"
+	path = vim/pack/github/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-sensible"]
-    path = "vim/pack/github/start/vim-sensible"
-    url = "https://github.com/tpope/vim-sensible.git"
+	path = vim/pack/github/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
 
