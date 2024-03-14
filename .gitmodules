@@ -20,3 +20,15 @@
 	path = vim/pack/github/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
 
+[submodule "vim/pack/github/start/fzf"]
+	path = vim/pack/github/start/fzf
+	url = https://github.com/junegunn/fzf
+[submodule "vim/pack/github/start/fzf.vim"]
+	path = vim/pack/github/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "vim/pack/github/start/lsp"]
+	path = vim/pack/github/start/lsp
+	url = https://github.com/yegappan/lsp
+[submodule "vim/pack/github/opt/lsp"]
+	path = vim/pack/github/opt/lsp
+	url = https://github.com/yegappan/lsp
